@@ -11,9 +11,8 @@ Eine minimalistische Webanwendung, die das **positive Modulo** zwischen zwei Zah
 
 ## 🖼️ Vorschau
 
-![Screenshot der Anwendung](![image](https://github.com/user-attachments/assets/3604b4ff-fda8-4af3-b6e0-e4ae24544b74)
-)  
-(*Füge hier einen Screenshot deiner Anwendung ein*)
+![Screenshot der Anwendung](![Screenshot der Anwendung](img\Screenshot 2025-04-23 204554.png)
+)
 
 ## 🛠️ Installation
 
