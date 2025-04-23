@@ -11,8 +11,7 @@ Eine minimalistische Webanwendung, die das **positive Modulo** zwischen zwei Zah
 
 ## 🖼️ Vorschau
 
-![Screenshot der Anwendung](![Screenshot der Anwendung](img\Screenshot 2025-04-23 204554.png)
-)
+![Screenshot der Anwendung](https://github.com/mapalummi/Positiv-Modulo/blob/main/img/Screenshot%202025-04-23%20204554.png)
 
 ## 🛠️ Installation
 
