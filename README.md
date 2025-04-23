@@ -11,14 +11,15 @@ Eine minimalistische Webanwendung, die das **positive Modulo** zwischen zwei Zah
 
 ## 🖼️ Vorschau
 
-![Screenshot der Anwendung](https://via.placeholder.com/600x400)  
+![Screenshot der Anwendung](![image](https://github.com/user-attachments/assets/3604b4ff-fda8-4af3-b6e0-e4ae24544b74)
+)  
 (*Füge hier einen Screenshot deiner Anwendung ein*)
 
 ## 🛠️ Installation
 
 1. **Repository klonen**:
    ```bash
-   git clone https://github.com/<dein-username>/positiv-modulo.git
+   git clone https://github.com/mapalummi/positiv-modulo.git
    ```
 2. **In das Projektverzeichnis wechseln**:
    ```bash
